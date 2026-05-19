@@ -1,3 +1,7 @@
+<img width="1040" height="647" alt="Design ohne Titel" src="https://github.com/user-attachments/assets/20bbb519-2bca-4cc6-be98-9e60c24a7d88" />
+
+
+
 # 🇩🇪 Hello,
  
 Ich arbeite seit vielen Jahren in der Softwareentwicklung mit Fokus auf bestehende Systeme, Wartbarkeit und saubere Weiterentwicklung.
