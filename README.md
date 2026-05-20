@@ -1,4 +1,5 @@
-<img width="1040" height="647" alt="Design ohne Titel" src="https://github.com/user-attachments/assets/20bbb519-2bca-4cc6-be98-9e60c24a7d88" />
+<img width="1040" height="647" alt="Design ohne Titel(1)" src="https://github.com/user-attachments/assets/3510ec15-57f5-4193-9de6-2a9b1f616981" />
+
 
 
 
