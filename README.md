@@ -3,18 +3,16 @@
 
 
 
-# 🇩🇪 Hello,
+# 🇩🇪 Hallo,
  
-Ich arbeite seit vielen Jahren in der Softwareentwicklung mit Fokus auf bestehende Systeme, Wartbarkeit und saubere Weiterentwicklung.
-Mein Schwerpunkt liegt auf Backend- und Full-Stack-Anwendungen, vor allem im PHP-Umfeld, ergänzt durch JavaScript, Docker und klassische Web-Infrastrukturen.
+Mit über 20 Jahren Erfahrung in der Entwicklung webbasierter Anwendungen stehe ich für eine Verbindung aus tiefem technischem Handwerk und radikaler Effizienz. 
+Mein Fokus liegt auf modularen Architekturen, nachhaltiger Softwareentwicklung und der Leitung technischer Lösungen an der Schnittstelle zwischen Produkt, Technik und Redaktion.
 
-Technologien sehe ich als Werkzeuge: Entscheidungen entstehen aus Anforderungen, Zeit, Betrieb und langfristiger Tragfähigkeit.
-Ich arbeite strukturiert, ruhig und eigenverantwortlich – besonders dort, wo Systeme bereits produktiv im Einsatz sind.
+In meiner Laufbahn habe ich gelernt: Syntax ist eine Ware, aber Architektur ist die Essenz. Während mein technologisches Fundament tief in PHP, JavaScript und Node.js verwurzelt ist. Als Entwickler kenne ich heute keine technologischen Grenzen mehr.
 
 # 🇬🇧 Hi,
 
-I work in software development with a strong focus on existing systems, maintainability, and sustainable evolution.
-My background is mainly in backend and full-stack development, primarily using PHP, complemented by JavaScript, Docker, and traditional web infrastructures.
+With over 20 years of experience in developing web-based applications, I embody a combination of deep technical expertise and radical efficiency.
+My focus is on modular architectures, sustainable software development, and leading technical solutions at the intersection of product, technology, and editorial.
 
-I see technologies as tools, not identities. Technical decisions are made by balancing requirements, time constraints, operations, and long-term stability.
-I prefer working in a structured and pragmatic way, especially on systems that are already in production.
+Throughout my career, I’ve learned that syntax is a tool, but architecture is the essence. While my technological foundation is deeply rooted in PHP, JavaScript, and Node.js, as a developer, I no longer recognize any technological boundaries.
